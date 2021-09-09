@@ -1,0 +1,324 @@
+Uri: http://karoliskosas.com/
+File Name: C:\Downloaded Web Sites\karoliskosas.com\index.htm
+Content Type: text/html
+
+Uri: http://karoliskosas.com/wp-content/uploads/2019/10/Aeonik-Regular.woff
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-content\uploads\2019\10\Aeonik-Regular.woff
+Content Type: 
+
+Uri: http://karoliskosas.com/wp-content/themes/lay/frontend/assets/css/frontend.style.css?ver=3.7.7
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-content\themes\lay\frontend\assets\css\frontend.style.css
+Content Type: text/css
+
+Uri: https://karoliskosas.com/wp-json/
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: https://karoliskosas.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\karoliskosas.com\xmlrpc.php.xml
+Content Type: text/xml
+
+Uri: http://karoliskosas.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: https://karoliskosas.com/wp-content/uploads/2020/05/cropped-Frame-26-1-32x32.png
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-content\uploads\2020\05\cropped-Frame-26-1-32x32.png
+Content Type: image/png
+
+Uri: https://karoliskosas.com/wp-content/uploads/2020/05/cropped-Frame-26-1-192x192.png
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-content\uploads\2020\05\cropped-Frame-26-1-192x192.png
+Content Type: image/png
+
+Uri: https://karoliskosas.com/wp-content/uploads/2020/05/cropped-Frame-26-1-180x180.png
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-content\uploads\2020\05\cropped-Frame-26-1-180x180.png
+Content Type: image/png
+
+Uri: https://karoliskosas.com/
+File Name: C:\Downloaded Web Sites\karoliskosas.com\index-2.htm
+Content Type: text/html
+
+Uri: http://karoliskosas.com/cujo-3/
+File Name: C:\Downloaded Web Sites\karoliskosas.com\cujo-3\index.htm
+Content Type: text/html
+
+Uri: http://karoliskosas.com/yplan-2/
+File Name: C:\Downloaded Web Sites\karoliskosas.com\yplan-2\index.htm
+Content Type: text/html
+
+Uri: http://karoliskosas.com/cinemaclub/
+File Name: C:\Downloaded Web Sites\karoliskosas.com\cinemaclub\index.htm
+Content Type: text/html
+
+Uri: http://karoliskosas.com/rapt/
+File Name: C:\Downloaded Web Sites\karoliskosas.com\rapt\index.htm
+Content Type: text/html
+
+Uri: http://karoliskosas.com/mubi-5/
+File Name: C:\Downloaded Web Sites\karoliskosas.com\mubi-5\index.htm
+Content Type: text/html
+
+Uri: https://medium.com/yplan-eng/how-to-give-people-what-they-want-and-not-loose-your-soul-b160712de2e
+File Name: C:\Downloaded Web Sites\karoliskosas.com\yplan-eng\how-to-give-people-what-they-want-and-not-loose-your-soul-b160712de2e.html
+Content Type: text/html
+
+Uri: https://medium.com/@karoliskosas/about-getting-lost-9faec0feb21c
+File Name: C:\Downloaded Web Sites\karoliskosas.com\@karoliskosas\about-getting-lost-9faec0feb21c.html
+Content Type: text/html
+
+Uri: http://www.anonymous-press.com/autonomous-systems.pdf
+File Name: C:\Downloaded Web Sites\karoliskosas.com\autonomous-systems.pdf
+Content Type: application/pdf
+
+Uri: https://karoliskosas.com/about/
+File Name: C:\Downloaded Web Sites\karoliskosas.com\about\index.htm
+Content Type: text/html
+
+Uri: http://karoliskosas.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-includes\js\jquery\jquery.min.js
+Content Type: text/javascript
+
+Uri: http://karoliskosas.com/wp-includes/js/underscore.min.js?ver=1.8.3
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-includes\js\underscore.min.js
+Content Type: text/javascript
+
+Uri: http://karoliskosas.com/wp-includes/js/backbone.min.js?ver=1.4.0
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-includes\js\backbone.min.js
+Content Type: text/javascript
+
+Uri: http://karoliskosas.com/wp-content/themes/lay/frontend/assets/vendor/backbone.radio.js?ver=3.7.7
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-content\themes\lay\frontend\assets\vendor\backbone.radio.js
+Content Type: text/javascript
+
+Uri: http://karoliskosas.com/wp-content/themes/lay/frontend/assets/vendor/swiper.js?ver=3.7.7
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-content\themes\lay\frontend\assets\vendor\swiper.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-19754898-1
+File Name: C:\Downloaded Web Sites\karoliskosas.com\gtag\js.js
+Content Type: application/javascript
+
+Uri: http://karoliskosas.com/wp-content/themes/lay/assets/js/vendor/marionettev3/backbone.marionette.min.js?ver=3.7.7
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-content\themes\lay\assets\js\vendor\marionettev3\backbone.marionette.min.js
+Content Type: text/javascript
+
+Uri: http://karoliskosas.com/wp-content/themes/lay/frontend/assets/js/vendor.min.js?ver=3.7.7
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-content\themes\lay\frontend\assets\js\vendor.min.js
+Content Type: text/javascript
+
+Uri: http://karoliskosas.com/wp-content/themes/lay/frontend/assets/js/frontend.app.min.js?ver=3.7.7
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-content\themes\lay\frontend\assets\js\frontend.app.min.js
+Content Type: text/javascript
+
+Uri: https://wordpress.org/
+File Name: C:\Downloaded Web Sites\karoliskosas.com\index-1.htm
+Content Type: text/html
+
+Uri: https://karoliskosas.com/wp-content/uploads/2019/10/Aeonik-Regular.woff
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-content\uploads\2019\10\Aeonik-Regular-1.woff
+Content Type: 
+
+Uri: https://karoliskosas.com/wp-content/themes/lay/frontend/assets/css/frontend.style.css?ver=3.7.7
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-content\themes\lay\frontend\assets\css\frontend.style-1.css
+Content Type: text/css
+
+Uri: https://karoliskosas.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-includes\wlwmanifest-1.xml
+Content Type: text/xml
+
+Uri: https://karoliskosas.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-includes\js\jquery\jquery.min-1.js
+Content Type: text/javascript
+
+Uri: https://karoliskosas.com/wp-includes/js/underscore.min.js?ver=1.8.3
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-includes\js\underscore.min-1.js
+Content Type: text/javascript
+
+Uri: https://karoliskosas.com/wp-includes/js/backbone.min.js?ver=1.4.0
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-includes\js\backbone.min-1.js
+Content Type: text/javascript
+
+Uri: https://karoliskosas.com/wp-content/themes/lay/frontend/assets/vendor/backbone.radio.js?ver=3.7.7
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-content\themes\lay\frontend\assets\vendor\backbone.radio-1.js
+Content Type: text/javascript
+
+Uri: https://karoliskosas.com/wp-content/themes/lay/frontend/assets/vendor/swiper.js?ver=3.7.7
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-content\themes\lay\frontend\assets\vendor\swiper-1.js
+Content Type: text/javascript
+
+Uri: https://karoliskosas.com/wp-content/themes/lay/assets/js/vendor/marionettev3/backbone.marionette.min.js?ver=3.7.7
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-content\themes\lay\assets\js\vendor\marionettev3\backbone.marionette.min-1.js
+Content Type: text/javascript
+
+Uri: https://karoliskosas.com/wp-content/themes/lay/frontend/assets/js/vendor.min.js?ver=3.7.7
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-content\themes\lay\frontend\assets\js\vendor.min-1.js
+Content Type: text/javascript
+
+Uri: https://karoliskosas.com/wp-content/themes/lay/frontend/assets/js/frontend.app.min.js?ver=3.7.7
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-content\themes\lay\frontend\assets\js\frontend.app.min-1.js
+Content Type: text/javascript
+
+Uri: https://karoliskosas.com/cujo-3/
+File Name: C:\Downloaded Web Sites\karoliskosas.com\cujo-3\index-1.htm
+Content Type: text/html
+
+Uri: https://karoliskosas.com/wp-json/wp/v2/pages/239
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-json\wp\v2\pages\239.json
+Content Type: application/json
+
+Uri: https://karoliskosas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkaroliskosas.com%2Fcujo-3%2F
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://karoliskosas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkaroliskosas.com%2Fcujo-3%2F&format=xml
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: http://karoliskosas.com/home/
+File Name: C:\Downloaded Web Sites\karoliskosas.com\home\index.htm
+Content Type: text/html
+
+Uri: https://karoliskosas.com/yplan-2/
+File Name: C:\Downloaded Web Sites\karoliskosas.com\yplan-2\index-1.htm
+Content Type: text/html
+
+Uri: https://karoliskosas.com/wp-json/wp/v2/pages/257
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-json\wp\v2\pages\257.json
+Content Type: application/json
+
+Uri: https://karoliskosas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkaroliskosas.com%2Fyplan-2%2F
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: https://karoliskosas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkaroliskosas.com%2Fyplan-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: https://medium.com/test-title/how-and-why-we-rebuilt-yplan-s-navigation-from-the-bottom-up-7e9b7c22a307
+File Name: C:\Downloaded Web Sites\karoliskosas.com\test-title\how-and-why-we-rebuilt-yplan-s-navigation-from-the-bottom-up-7e9b7c22a307.html
+Content Type: text/html
+
+Uri: https://karoliskosas.com/cinemaclub/
+File Name: C:\Downloaded Web Sites\karoliskosas.com\cinemaclub\index-1.htm
+Content Type: text/html
+
+Uri: https://karoliskosas.com/wp-json/wp/v2/pages/328
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-json\wp\v2\pages\328.json
+Content Type: application/json
+
+Uri: https://karoliskosas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkaroliskosas.com%2Fcinemaclub%2F
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: https://karoliskosas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkaroliskosas.com%2Fcinemaclub%2F&format=xml
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: https://karoliskosas.com/rapt/
+File Name: C:\Downloaded Web Sites\karoliskosas.com\rapt\index-1.htm
+Content Type: text/html
+
+Uri: https://karoliskosas.com/wp-json/wp/v2/pages/135
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-json\wp\v2\pages\135.json
+Content Type: application/json
+
+Uri: https://karoliskosas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkaroliskosas.com%2Frapt%2F
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: https://karoliskosas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkaroliskosas.com%2Frapt%2F&format=xml
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-json\oembed\1.0\embed-3.xml
+Content Type: text/xml
+
+Uri: https://raptstudio.com/
+File Name: C:\Downloaded Web Sites\karoliskosas.com\index-4.htm
+Content Type: text/html
+
+Uri: https://karoliskosas.com/mubi-5/
+File Name: C:\Downloaded Web Sites\karoliskosas.com\mubi-5\index-1.htm
+Content Type: text/html
+
+Uri: https://karoliskosas.com/wp-json/wp/v2/pages/354
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-json\wp\v2\pages\354.json
+Content Type: application/json
+
+Uri: https://karoliskosas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkaroliskosas.com%2Fmubi-5%2F
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: https://karoliskosas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkaroliskosas.com%2Fmubi-5%2F&format=xml
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-json\oembed\1.0\embed-4.xml
+Content Type: text/xml
+
+Uri: https://karoliskosas.com/about/feed/
+File Name: C:\Downloaded Web Sites\karoliskosas.com\about\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://karoliskosas.com/wp-json/wp/v2/pages/100
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-json\wp\v2\pages\100.json
+Content Type: application/json
+
+Uri: https://karoliskosas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkaroliskosas.com%2Fabout%2F
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-json\oembed\1.0\embed-5.json
+Content Type: application/json
+
+Uri: https://karoliskosas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkaroliskosas.com%2Fabout%2F&format=xml
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-json\oembed\1.0\embed-5.xml
+Content Type: text/xml
+
+Uri: http://thisistomorrow.info/articles/a-set-of-lines-a-stack-of-paper
+File Name: C:\Downloaded Web Sites\karoliskosas.com\articles\a-set-of-lines-a-stack-of-paper.html
+Content Type: text/html
+
+Uri: http://anonymous-press.com/
+File Name: C:\Downloaded Web Sites\karoliskosas.com\index-6.htm
+Content Type: text/html
+
+Uri: https://chrome.google.com/webstore/detail/mubi/oggnapaiihoojafgipkmdblcjnkggohp?hl=en
+File Name: C:\Downloaded Web Sites\karoliskosas.com\webstore\detail\mubi\oggnapaiihoojafgipkmdblcjnkggohp.html
+Content Type: text/html
+
+Uri: http://fromwind.com/
+File Name: C:\Downloaded Web Sites\karoliskosas.com\index-7.htm
+Content Type: text/html
+
+Uri: https://laytheme.com/
+File Name: C:\Downloaded Web Sites\karoliskosas.com\index-3.htm
+Content Type: text/html
+
+Uri: https://karoliskosas.com/home/
+File Name: C:\Downloaded Web Sites\karoliskosas.com\home\index-1.htm
+Content Type: text/html
+
+Uri: https://karoliskosas.com/home/feed/
+File Name: C:\Downloaded Web Sites\karoliskosas.com\home\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://karoliskosas.com/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-json\wp\v2\pages\2.json
+Content Type: application/json
+
+Uri: https://karoliskosas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkaroliskosas.com%2Fhome%2F
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-json\oembed\1.0\embed-6.json
+Content Type: application/json
+
+Uri: https://karoliskosas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkaroliskosas.com%2Fhome%2F&format=xml
+File Name: C:\Downloaded Web Sites\karoliskosas.com\wp-json\oembed\1.0\embed-6.xml
+Content Type: text/xml
+
+Uri: https://stripe.com/
+File Name: C:\Downloaded Web Sites\karoliskosas.com\index-5.htm
+Content Type: text/html
+
+Uri: https://www.itsnicethat.com/articles/anonymous-press
+File Name: C:\Downloaded Web Sites\karoliskosas.com\articles\anonymous-press.html
+Content Type: text/html
+
+Uri: https://www.creativeapplications.net/scripts/anonymous-press-streamlining-the-process-of-zine-making/
+File Name: C:\Downloaded Web Sites\karoliskosas.com\scripts\anonymous-press-streamlining-the-process-of-zine-making\index.htm
+Content Type: text/html
+
+Uri: https://www.theverge.com/2012/8/8/3227445/wikipedia-redefined-lithuanian-concept
+File Name: C:\Downloaded Web Sites\karoliskosas.com\2012\8\8\3227445\wikipedia-redefined-lithuanian-concept.html
+Content Type: text/html
+
